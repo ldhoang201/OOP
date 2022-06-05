@@ -1,2 +1,2 @@
-# Object-oriented-programming-JAVA-
+# OOP-JAVA
 About OOP using JAVA.
